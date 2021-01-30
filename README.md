@@ -3,6 +3,11 @@
 Python Flask で書いた RESTのサンプルアプリケーションです。
 それぞれ、バージョンを返します。
 
+## Docker Hub
+
+Docker Hub ( https://hub.docker.com/r/maho/webapl7 )  に登録してあります。
+
+
 
 ## v1 ビルド、テスト、プッシュ
 
